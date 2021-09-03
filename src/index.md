@@ -1,12 +1,24 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: 
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+<img src="https://assets.codepen.io/867725/tampa_devs_v3.png"/>
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+<!-- integrate a carousel slider of random events and pictures -->
+
+Tampa Devs is a free monthly meetup based in Tampa, FL. We focus on speaking events in web development - whether frontend development, backend, DevOps, career skills, and more!
+
+We regularly host professional networking events around downtown Tampa.
+
+Please join the following links:
+
+<div class="cta">
+  <a class="cta-button" href="https://meetup.com/tampadevs">Meetup</a>
+  <a class="cta-button" href="https://suncoast-devs.slack.com/">Slack</a>
+  <a class="cta-button">Newsletter</a>
+</div>
